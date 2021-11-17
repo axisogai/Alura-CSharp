@@ -27,7 +27,7 @@ namespace _3_CriandoVariaveisPontoFlutuante
             Console.WriteLine(idade);
 
             Console.WriteLine("A execução acabou. Tecle enter para sair . . .");
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }

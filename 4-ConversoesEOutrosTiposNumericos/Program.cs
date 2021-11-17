@@ -10,7 +10,7 @@ namespace _4_ConversoesEOutrosTiposNumericos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Executando projeto 3 Criando variaveis ponto flutuante");
+            Console.WriteLine("Executando projeto 4 - Conversoes e Outros Tipos Numericos");
 
             double salario;
             salario = 1200.50;
@@ -23,15 +23,17 @@ namespace _4_ConversoesEOutrosTiposNumericos
             // O long é uma variável de 64 bits
             long idade; 
             idade = 13000000000;
+            Console.WriteLine(idade);
 
             //O short é um tipo de variável de 16 bits
             short quantidadeProdutos;
             quantidadeProdutos = 15000;
-
+            Console.WriteLine(quantidadeProdutos);
 
             float altura = 1.80f;
+            Console.WriteLine(altura);
 
-            Console.ReadLine();
+            Console.ReadLine(); 
 
         }
     }

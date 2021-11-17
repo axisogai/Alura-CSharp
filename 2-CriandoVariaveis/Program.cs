@@ -30,6 +30,6 @@ namespace _2_CriandoVariaveis
             Console.WriteLine("Execução finalizada. Tecle enter para sair. . .");
 
             Console.ReadLine();
-        }
+        } 
     }
 }
